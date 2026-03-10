@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/camify-pages/_next/static/chunks/ff1a16fafef87110.js","/camify-pages/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
+3:I[58340,["/camify-pages/_next/static/chunks/16b70f7ea6f478d3.js","/camify-pages/_next/static/chunks/f010a011f5cdad03.js","/camify-pages/_next/static/chunks/8696c8f4dadc3df0.js"],"default"]
+6:I[97367,["/camify-pages/_next/static/chunks/ff1a16fafef87110.js","/camify-pages/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"DXVfygWnLe6fZmwtbk1wQ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/camify-pages/_next/static/chunks/8696c8f4dadc3df0.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

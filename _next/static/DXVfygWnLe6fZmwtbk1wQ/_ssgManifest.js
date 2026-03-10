@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fbrands\u002F[brand]","\u002Fproduct\u002F[slug]","\u002Fproduct\u002F[slug]\u002F[sku]","\u002Fproduct\u002F[slug]\u002F[sku]\u002Fv2"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
