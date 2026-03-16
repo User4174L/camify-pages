@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[73644,["/camify-pages/_next/static/chunks/46f2c7ed9bb2a430.js","/camify-pages/_next/static/chunks/f8ff7ac90f94151f.js","/camify-pages/_next/static/chunks/80094f4872da4523.js","/camify-pages/_next/static/chunks/1c6f7159db2b96d8.js"],"default"]
-3:I[97367,["/camify-pages/_next/static/chunks/ff1a16fafef87110.js","/camify-pages/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"8wWOxS0Rb8jscCJlpaf0X","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/camify-pages/_next/static/chunks/80094f4872da4523.js","async":true}],["$","script","script-1",{"src":"/camify-pages/_next/static/chunks/1c6f7159db2b96d8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
